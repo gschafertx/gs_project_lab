@@ -1,3 +1,4 @@
 File 2 is second best
+extra special fourth line
 Not as good as file 1
 but still ok
